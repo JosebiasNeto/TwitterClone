@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Twitter Clone</string>
+    <string name="txt_name_tools">Túlio</string>
+    <string name="txt_login_tools">@sstulio</string>
+    <string name="txt_tweet_tools">We just know that the fight ain\'t fair, so we keep on waiting, waiting on the world to change</string>
+    <string name="txt_time_tools">·2m</string>
+    <string name="txt_coments_number">4</string>
 </resources>
