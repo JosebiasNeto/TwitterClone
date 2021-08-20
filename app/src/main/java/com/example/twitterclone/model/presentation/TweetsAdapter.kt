@@ -1,4 +1,4 @@
-package com.example.twitterclone.presentation
+package com.example.twitterclone.model.presentation
 
 import android.view.LayoutInflater
 import android.view.View

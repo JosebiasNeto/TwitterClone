@@ -12,18 +12,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.TwitterClone">
-        <activity android:name=".presentation.MainActivity"
-            android:noHistory="true"
-            tools:ignore="AppLinkUrlError">
+        <activity android:name="com.example.twitterclone.model.presentation.MainActivity"
+            >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-            <intent-filter>
-                <action android:name="android.intent.action.VIEW"/>
-                <category android:name="android.intent.category.DEFAULT"/>
-                <category android:name="android.intent.category.BROWSABLE"/>
-            </intent-filter>
+
         </activity>
     </application>
 
